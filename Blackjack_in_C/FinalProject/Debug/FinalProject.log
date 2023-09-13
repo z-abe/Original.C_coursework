@@ -1,0 +1,6 @@
+﻿  BJ.c
+C:\Users\zacha\source\repos\FinalProject\FinalProject\BJ.c(26,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zacha\source\repos\FinalProject\FinalProject\BJ.c(152,54): warning C4142: 'deal': benign redefinition of type
+C:\Users\zacha\source\repos\FinalProject\FinalProject\BJ.c(10): message : see declaration of 'deal'
+C:\Users\zacha\source\repos\FinalProject\FinalProject\BJ.c(154,34): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> C:\Users\zacha\source\repos\FinalProject\Debug\FinalProject.exe
